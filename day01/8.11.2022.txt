@@ -1,0 +1,10 @@
+commands:
+ls
+mkdir day01
+git init
+git ad .
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/dhanushiya06/Dhanu.git
+git branch -M main
+git push -u origin main
