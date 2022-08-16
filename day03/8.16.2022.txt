@@ -1,0 +1,29 @@
+notes:
+
+class
+Object
+Encapsulation
+Abstraction 
+Inheritance
+Polymorphism
+Interface
+Array
+
+Program:
+
+employee details
+calculator 
+
+Task:
+
+Difference bw protected and default access modifier
+Super keyword
+Final variable,method,class
+try,catch and finally
+Array 4 nos nd return sum
+Hello world using interface
+Hello world using array
+Hello world using inheritance
+Hello world using method overloading
+Hello world using method overriding
+Hello world using abstract class

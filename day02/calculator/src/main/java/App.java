@@ -11,21 +11,21 @@ public class App {
         System.out.println("enter the no: ");
         Scanner sc= new Scanner(System.in);
         n= sc.nextInt();
-        
+
         Calculation calculation = new Calculation();
 
         switch(n){
             case(1):
-                System.out.println(calculation.add());
+                calculation.add(5,8);
                 break;
                 case(2):
-                    System.out.println(calculation.sub());
+                    calculation.sub(2,5);
                     break;
             case(3):
-                System.out.println(calculation.mul());
+                calculation.mul(2,3);
                 break;
             case(4):
-                System.out.println(calculation.div());
+                calculation.div(6,3);
                 break;
          }
     }
