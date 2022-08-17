@@ -1,0 +1,21 @@
+Task:
+
+ATM project ( mini project )
+keywords
+Exceptions
+Method overloading
+Arrays
+
+Topics:
+
+wrapper class
+javadoc tools
+aggregation (has a relationship)s
+cloning
+JVM,JRE,JDK
+Path setting
+Abstract class and method
+
+
+
+
