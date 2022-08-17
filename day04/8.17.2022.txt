@@ -10,7 +10,7 @@ Topics:
 
 wrapper class
 javadoc tools
-aggregation (has a relationship)s
+aggregation (has a relationship)
 cloning
 JVM,JRE,JDK
 Path setting
