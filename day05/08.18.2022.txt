@@ -1,0 +1,26 @@
+Topics:
+
+java string methods
+regular expression
+multi threading
+reflection
+date format
+conventions
+collections
+list
+jdbc
+internalisation
+threads
+synchronisation
+runtime and compile time polymorphism
+API
+enums
+linked list
+hash maps
+hash set
+lambda
+file handling
+
+MINI PROJECT:
+
+BookMyShow 
