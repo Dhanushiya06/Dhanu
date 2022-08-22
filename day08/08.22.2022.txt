@@ -1,0 +1,19 @@
+Topics covered:
+
+mini project using Java_Todo
+
+SpringBoot
+tightly coupled
+lossely coupled
+primary
+qualifier
+constructor and setter injection
+autowiring by name
+bean scope
+complex scope
+component scan
+lifecycle of bean
+cdi
+without springboot
+xml configuration
+git branching
