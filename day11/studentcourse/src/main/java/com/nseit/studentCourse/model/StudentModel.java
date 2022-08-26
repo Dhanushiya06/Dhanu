@@ -11,7 +11,7 @@ import java.util.List;
 @Entity
 @Table(name = "student")
 
-public class StudentModel {
+public class StudentModel extends CourseModel {
     @Id
     @GeneratedValue
     private Integer id;
@@ -19,10 +19,9 @@ public class StudentModel {
     private Integer rollNumber;
     private Integer age;
     @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
-    @JoinTable(name = "studentModel_courseModel",
-            joinColumns = @JoinColumn(name = "id", referencedColumnName = "id"),
-            inverseJoinColumns = @JoinColumn(name = "courseModel_id",
-                    referencedColumnName = "courseModel_id"))
-    private List<CourseModel> courseModel;
-
+    @JoinTable(name = "student_course",
+            joinColumns = @JoinColumn(name = "student_id", referencedColumnName = "id"),
+            inverseJoinColumns = @JoinColumn(name = "course_id",
+                    referencedColumnName = "course_id"))
+    private List<CourseModel> course;
 }

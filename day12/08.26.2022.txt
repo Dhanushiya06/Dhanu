@@ -1,0 +1,15 @@
+Topics covered:
+
+1.Spring Boot Jpa
+-java persistence API
+-Object Relation Mapping
+-Jpa entity manager
+- Jpa mapping
+2. Spring boot rest controller
+-rest controller
+-requestBody
+-RequestMapping
+
+Tasks:
+
+1.Entity relationship program using hibernate and mysql

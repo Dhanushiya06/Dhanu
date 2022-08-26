@@ -1,4 +1,4 @@
-package com.nseit.studentCourse.model;
+package com.nseit.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,14 +11,14 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "course")
-public class CourseModel {
+@Table(name = "role")
+public class Role {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer course_id;
-    private String courseName;
-    private Integer duration;
+    private int role_id;
 
-    @ManyToMany(mappedBy = "course")
-    private List<StudentModel> student;
+    private String role_name;
+    @ManyToMany(mappedBy = "role")
+    private List<Account> account;
 }
+
