@@ -10,4 +10,5 @@ JPA entity relationship
 Task covered:
 
 program using JPA entity relationship
- 
+ student_course project - creating the student and course class in model, repository and service 
+and apply the enity relationship in manytomany and mapping the student and course table. 
