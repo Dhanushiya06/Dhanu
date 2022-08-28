@@ -12,4 +12,5 @@ Topics covered:
 
 Tasks:
 
-1.Entity relationship program using hibernate and mysql
+1.Entity relationship program using hibernate and mysql - using hibernate and account and role table
+ add restcontroller and requestmapping in h2-console to view the table and postman helps to insert the values for tables.
