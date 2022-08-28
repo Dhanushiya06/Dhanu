@@ -12,5 +12,5 @@ Maven
  Maven importing
  usage
 
-BookMyShow-mini project- day03- add the lombok dependencies and add auth for user login and register purpose
+BookMyShow-mini project- day03-add auth for user login and register purpose
  and complete the project 
