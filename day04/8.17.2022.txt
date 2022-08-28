@@ -1,6 +1,10 @@
 Task:
 
-ATM project ( mini project )
+ATM project- mini project( day 01-create the basic atm project like withdrawl- it check the balance and withdraw the amount 
+if balance is lower then withdraw amount it shows insufficient balance,day 02-credits- it add the credit amount in account,
+view balance and exit)
+day 03- complete the project
+
 keywords
 Exceptions
 Method overloading
