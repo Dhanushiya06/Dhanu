@@ -23,4 +23,5 @@ file handling
 
 MINI PROJECT:
 
-BookMyShow 
+BookMyShow (start the individual mini project day 01- create the project in main class and 
+get the output with help of user choice get the output in main class itself)
