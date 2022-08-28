@@ -16,3 +16,5 @@ joins
  outer
  right
  left
+
+BookMyShow mini project - day02- create the model, service and utils for user, movie, history 
