@@ -11,8 +11,9 @@ Array
 
 Program:
 
-employee details
-calculator 
+employee details   (help of constructor get and set the vaules)
+calculator  (create a calculation class and create the different methods for add,sub, multi,div,modulous and 
+main class call this methods and run the code with user choice)
 
 Task:
 
