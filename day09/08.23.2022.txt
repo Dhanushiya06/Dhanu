@@ -9,5 +9,7 @@ Topics covered
 
 
 project
->springboot-todo
->springbootexercise
+>springboot-todo - create the project in springboot add lombok dependency and add model,
+repository and service for todo and use different annotations.
+
+>springbootexercise- using the annotation like @Component,@Autowired,@Autowired by name etc.
