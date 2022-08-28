@@ -1,6 +1,7 @@
 Topics covered:
 
-mini project using Java_Todo
+mini project using Java_Todo - todo is checklist to analyse the task is completed or not 
+create id,name and task completed with help of constructor set and get the values. 
 
 SpringBoot
 tightly coupled
