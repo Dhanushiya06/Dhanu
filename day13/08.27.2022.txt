@@ -8,3 +8,7 @@ Monolithic Application
 Mysql
  Installation
  Usage
+
+Task:
+
+BookMyShow-project- add the enities and install the sql and add the values for tables in postman and view the table in splworkbench
