@@ -21,7 +21,8 @@ setter and getter injection
 
 
 Tasks:
+todo with springboot- create the todo in springbook add dependency and model,repository 
+and service for persons and set the values in condstructor.
 
-todo using java
-todo using spring boot
-todo with JPA
+todo with JPA -todo project add the restcontroller and requestmapping for controller and add h2_console database
+ and open in localhost:8080 and view the tables. 
