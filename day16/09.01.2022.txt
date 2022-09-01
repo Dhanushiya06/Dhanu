@@ -1,0 +1,29 @@
+Topics covered:
+
+Flex concepts:
+
+-Justify content
+-align items
+-align self
+-flex direction and column
+-centering element
+-flex wrap
+-ordering
+-flex grow,shrink,basis
+Bootstarp-5
+-spacing
+-sizing
+-text position
+-alert
+-badges
+-breadcrumb
+-button
+-card
+-carousel
+-model
+-navbar
+-pagination
+
+Tasks: - filpkart menubar (using html&css , flex and bootstrap5)
+
+Task to be completed: Myntra Home Page
