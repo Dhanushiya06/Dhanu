@@ -5,6 +5,6 @@ Revision on Entity mapping
 Tasks:
 
 Done web pages using bootstrap( Flex model, Buttons, Card)
-   Flipkart
+  -Flipkart
  Role based access-main project
 
