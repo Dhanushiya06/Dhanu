@@ -1,0 +1,12 @@
+
+Topic covered:
+
+API response
+Error response
+
+Logger module
+SLF4J
+
+Task:
+Admin dashborad using Bootstrap
+
