@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+  <title>Load Calculator</title>
+  <script src="script.js"></script>
+</head>
+<body>
+  <div class="calculator">
+    <p>
+      Loan Amount :Rs.
+      <input
+        type="number"
+        id="amount"
+        min="0"
+        max="5000000"
+        onchange="compute()"
+      />
+    </p>
+    <p>
+      Interest amount: Rs.
+      <input
+        type="number"
+        id="interest"
+        min="0"
+        max="100"
+        step="0.1"
+        onchange="compute()"
+      />
+    </p>
+    <p>
+      Payment Months:
+      <input
+        type="=number"
+        id="month"
+        min="0"
+        max="30"
+        value="1"
+        step="1"
+        onchange="compute()"
+      />
+    </p>
+    <h2 id= "payment" ></h2>
+  </div>
+</body>
