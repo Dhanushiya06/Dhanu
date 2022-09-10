@@ -1,0 +1,6 @@
+Demo Project
+ Completed frontEnd 
+ Created FrontEnd and backEnd
+
+Main Project:
+ Connected Login and Register to FrontEnd and add movies 
